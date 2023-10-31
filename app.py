@@ -6,3 +6,4 @@ while(n!=0):
     sum=sum+r
     n=n//10
 print("the sum of digits of a number is",sum)    
+#moving towards second one
